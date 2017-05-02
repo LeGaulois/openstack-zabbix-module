@@ -11,15 +11,15 @@ Le module est constitué:
 Le module a été testé sur la version OCATA sous CentOS.
 
 Les librairies suivantes sont nécessaires pour pouvoir utiliser le module:
-    - libconfig-devel.x86_64
-    - libcurl-devel.x86_64
-    - json-c-devel.x86_64
-    - la librairie [rabbitMQ](https://github.com/alanxz/rabbitmq-c)
+  - libconfig-devel.x86_64
+  - libcurl-devel.x86_64
+  - json-c-devel.x86_64
+  - la librairie [rabbitMQ](https://github.com/alanxz/rabbitmq-c)
     
 # Code annexe
 Les ressources suivantes ont été utilisées:
-    - [gestion des erreurs en C](https://openclassrooms.com/courses/la-gestion-des-erreurs-en-c)
-    - [liste en C](https://github.com/clibs/list)
+  - [gestion des erreurs en C](https://openclassrooms.com/courses/la-gestion-des-erreurs-en-c)
+  - [liste en C](https://github.com/clibs/list)
     
     
 # Exemples
