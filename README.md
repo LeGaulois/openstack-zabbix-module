@@ -3,8 +3,9 @@ Module Zabbix développé pour Openstack permettant l'ajout/suppresion automatiq
 
 Le module est constitué:
     - d'une API ZABBIX (C)
-    - d'un module d'écoute des files RabbitMQ
+    - d'un module d'écoute des files RabbitMQ (C)
     - des pages de modifications du formulaire de création d'instance sur HORIZON
+    - des API pour horizon
     
 #Prérequis
 Les librairies suivantes sont nécessaires pour pouvoir utiliser le module:
