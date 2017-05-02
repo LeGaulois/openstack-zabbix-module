@@ -2,11 +2,11 @@
 Module Zabbix développé pour Openstack permettant l'ajout/suppresion automatique des instances sur ZABBIX en fonction des événements NOVA.
 
 Le module est constitué:
-    - d'une API ZABBIX (C)
-    - d'un module d'écoute des files RabbitMQ (C)
-    - des pages de modifications du formulaire de création d'instance sur HORIZON
-    - des API pour horizon
-    
+  - d'une API ZABBIX (C)
+  - d'un module d'écoute des files RabbitMQ (C)
+  - des pages de modifications du formulaire de création d'instance sur HORIZON
+  - des API pour horizon
+      
 # Prérequis
 Le module a été testé sur la version OCATA sous CentOS.
 
